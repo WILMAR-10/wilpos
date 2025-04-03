@@ -1,0 +1,1 @@
+// Utilidades de red (comunicación servidor-cliente)
